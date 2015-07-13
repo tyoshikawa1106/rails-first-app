@@ -1,4 +1,4 @@
-# Ruby on Rails チュートリアル：サンプルアプリケーション
+## Ruby on Rails Tutorial：SampleApplication
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
